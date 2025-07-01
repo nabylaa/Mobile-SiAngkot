@@ -1,0 +1,2 @@
+D:/PersonalProject/si-angkot/si_angkot/android/app/.cxx/RelWithDebInfo/6g375c61/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/PersonalProject/si-angkot/si_angkot/android/app/.cxx/RelWithDebInfo/6g375c61/armeabi-v7a/CMakeFiles/rebuild_cache.dir

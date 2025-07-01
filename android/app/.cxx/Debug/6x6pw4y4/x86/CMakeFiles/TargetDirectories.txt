@@ -1,0 +1,2 @@
+D:/PersonalProject/si-angkot/si_angkot/android/app/.cxx/Debug/6x6pw4y4/x86/CMakeFiles/edit_cache.dir
+D:/PersonalProject/si-angkot/si_angkot/android/app/.cxx/Debug/6x6pw4y4/x86/CMakeFiles/rebuild_cache.dir

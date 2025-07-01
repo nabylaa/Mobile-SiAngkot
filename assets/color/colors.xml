@@ -1,0 +1,22 @@
+<resources>
+    <color name="primary_color">#d0631d</color>
+    <color name="secondary_color">#efd573</color>
+    <color name="font_color_primary">#000000</color>
+    <color name="font_color_secondary">#A9A9A9</color>
+    <color name="font_color_list_item">#5D5D65</color>
+    <color name="font_color_hint">#D1D1D1</color>
+    <color name="font_color_white">#FFFFFF</color>
+    <color name="font_color_warning">#FFCC00</color>
+    <color name="font_color_success">#34C759</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="background_tab_chips">#EDEDED</color>
+    <color name="background_warning">#33FFCC00</color> <!-- 20% opacity -->
+    <color name="background_success">#3334C759</color> <!-- 20% opacity -->
+    <color name="background_error">#33FF3B30</color> <!-- 20% opacity -->
+    <color name="border_input_text">#33EDF3F7</color> <!-- 20% opacity -->
+    <color name="border_input_text_secondary">#ABABAB</color> <!-- 20% opacity -->
+    <color name="icon_color_1E1E1E">#1e1e1e</color>
+    <color name="bottom_nav_icon_color_unselected">#68696D</color>
+    <color name="bottom_nav_font_color_unselected">#a4a4a6</color>
+    <color name="background_chip_duty">#dbdbdb</color>
+</resources>

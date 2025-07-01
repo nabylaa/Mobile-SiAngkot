@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1045505393657",
+    "firebase_url": "https://si-angkot-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "si-angkot",
+    "storage_bucket": "si-angkot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045505393657:android:514d14e36a6479965bf328",
+        "android_client_info": {
+          "package_name": "com.example.si_angkot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2RYal7nLN3exCkxka9hYqwrRJMuxpEU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
